@@ -231,19 +231,7 @@ Ideas for where Network Guardian could go next — contributions welcome!
 
 ---
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-
-```bash
-# 1. Fork the repo
-# 2. Create your feature branch
-git checkout -b feature/amazing-feature
-# 3. Commit your changes
-git commit -m "Add amazing feature"
-# 4. Push and open a Pull Request
-git push origin feature/amazing-feature
-```
 
 ## 📜 License
 
