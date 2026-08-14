@@ -253,9 +253,6 @@ Distributed under the **MIT License** — for educational and authorized defensi
 
 <div align="center">
 
-### ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ANIKETCHAND/network_guardian-5-&type=Date)](https://star-history.com/#ANIKETCHAND/network_guardian-5-&Date)
 
 Made with 🛡️ by [**ANIKETCHAND**](https://github.com/ANIKETCHAND)
 
