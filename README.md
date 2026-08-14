@@ -63,10 +63,11 @@ Menu flow:
 
 ```
 [1] Select network interface
-[2] Build / refresh trusted baseline (ARP scan)
+[2] Scan network (build trusted baseline)
 [3] Start ARP spoofing / MITM monitor
 [4] View alert log
-[5] Exit
+[5] Launch web dashboard
+[6] Exit
 ```
 
 Typical session: select your interface → build a baseline while the network
